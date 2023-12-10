@@ -1,7 +1,4 @@
-
-                                  **KARINA 💙** 
-
-
+  **KARINA 💙** 
 
 ![My bias 💙](https://pbs.twimg.com/media/GA9gCO0a0AAzq5q?format=jpg&name=medium)
 
