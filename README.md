@@ -1,5 +1,5 @@
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/phthinh905?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/phthinh905?theme=light)
 
 - 👋 Hi, I’m @thiphucthinh
 - 👀 I’m interested in ...
