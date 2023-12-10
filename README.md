@@ -1,5 +1,5 @@
 [LeetCode Stats](https://leetcode.com/thiphucthinh/)
-![My bias 💙](https://twitter.com/instaespa/status/1733709999824859281/photo/2)
+![My bias 💙]([https://twitter.com/instaespa/status/1733709999824859281/photo/2](https://pbs.twimg.com/media/GA9gCO0a0AAzq5q?format=jpg&name=medium))
 
 <!---
 
