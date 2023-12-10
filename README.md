@@ -1,3 +1,6 @@
+[LeetCode Stats](https://leetcode.com/thiphucthinh/)
+![My bias 💙](https://twitter.com/instaespa/status/1733709999824859281/photo/2)
+
 <!---
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/thiphucthinh?theme=light)
