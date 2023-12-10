@@ -1,4 +1,4 @@
-<span style="color: blue; font-size: 39px; margin: 0px">KARINA 💙</span>
+<span style="color: blue; font-size: 39px; font-weight: bold; text-align: center">KARINA 💙</span>
 
 
 
