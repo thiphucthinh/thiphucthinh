@@ -9,4 +9,4 @@ thiphucthinh/thiphucthinh is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ThiPhucThinh?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/phthinh905?theme=dark)
