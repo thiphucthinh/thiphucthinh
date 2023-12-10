@@ -1,10 +1,11 @@
-[LeetCode Stats](https://leetcode.com/thiphucthinh/)
+<span style="color: blue; font-size: 18px;">KARINA 💙</span>
+
 
 
 ![My bias 💙](https://pbs.twimg.com/media/GA9gCO0a0AAzq5q?format=jpg&name=medium)
 
 <!---
-
+[LeetCode Stats](https://leetcode.com/thiphucthinh/)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/thiphucthinh?theme=light)
 
 - 👋 Hi, I’m @thiphucthinh
